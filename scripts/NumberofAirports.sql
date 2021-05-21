@@ -1,8 +1,8 @@
 -- receives an integer as input
--- prints input number of countries in descending order of number of airports 
+-- prints given number of countries in a descending order of number of airports 
 
 DELIMITER //
-DROP PROCEDURE IF EXISTS Query1_NumberofAirports //
+DROP PROCEDURE IF EXISTS NumberofAirports //
 
 CREATE PROCEDURE Query1_NumberofAirports(IN numCountries INTEGER(10))
 BEGIN

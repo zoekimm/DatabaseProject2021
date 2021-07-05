@@ -1,0 +1,13 @@
+Name,IATA,countryName,activeStatus
+American Airlines,AA,United States,Y
+Allegiant Air,G4,United States,Y
+Cathay Pacific,CX,Hong Kong,Y
+Austrian Airlines,OS,Austria,Y
+Air China,CA,China,Y
+British Airways,BA,United Kingdom,Y
+Lufthansa,LH,Germany,Y
+Mango,JE,South Africa,Y
+S7 Airlines,S7,Russia,Y
+Turkish Airlines,TK,Turkey,Y
+Croatia Airlines,OU,Croatia,Y
+Flybe,BE,United Kingdom,Y

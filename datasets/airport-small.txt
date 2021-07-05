@@ -1,0 +1,14 @@
+name,City,countryName,IATA,Latitude,Logtitude,Altitude,Timezone
+Manchester Airport,Manchester,United Kingdom,MAN,53.35369873046880,-2.2749500274658200,257,0.0
+London Heathrow Airport,London,United Kingdom,LHR,51.4706,-0.461941,83,0.0
+Isle of Man Airport,Isle Of Man,Isle of Man,IOM,54.08330154418950,-4.623889923095700,52,0.0
+Beijing Capital International Airport,Beijing,China,PEK,40.0801010131836,116.58499908447300,116,8.0
+Hong Kong International Airport,Hong Kong,Hong Kong,HKG,22.308901000000000,113.915001,28,8.0
+Los Angeles International Airport,Los Angeles,United States,LAX,33.94250107,-118.40799710000000,125,-8.0
+Newark Liberty International Airport,Newark,United States,EWR,40.69250106811520,-74.168701171875,18,-5.0
+Istanbul Airport,Istanbul,Turkey,IST,41.275278,28.751944,325,3.0
+Domodedovo International Airport,Moscow,Russia,DME,55.40879821777340,37.90629959106450,588,3.0
+Zagreb Airport,Zagreb,Croatia,ZAG,45.742900848400000,16.0687999725,353,1.0
+Zadar Airport,Zadar,Croatia,ZAD,44.108299,15.3467,289,1.0
+OR Tambo International Airport,Johannesburg,South Africa,JNB,-26.1392,28.246,5558,2.0
+Frankfurt am Main Airport,Frankfurt,Germany,FRA,50.033333,8.570556,364,1.0

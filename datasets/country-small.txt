@@ -1,0 +1,16 @@
+Country,countryCode,Latitude,Longitude,GDP
+Austria,AT,47.3333,13.3333,30000.0
+Belgium,BE,50.8333,4,29100.0
+Croatia,HR,45.1667,15.5,10600.0
+Ethiopia,ET,8,38,700.0
+Hong Kong,HK,22.25,114.1667,28800.0
+Isle of Man,IM,54.23,-4.55,21000.0
+San Marino,SM,43.7667,12.4167,34600.0
+Taiwan,TW,23.5,121,23400.0
+Turkey,TR,39,35,6700.0
+China,CN,35,105,5000.0
+Germany,DE,51,9,27600.0
+United Kingdom,GB,54,-2,27700.0
+United States,US,38,-97,37800.0
+Russia,RU,60,100,8900.0
+South Africa,ZA,-29,24,10700.0

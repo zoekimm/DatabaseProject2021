@@ -1,5 +1,6 @@
 <?php
 
+//connection
 include 'open.php';
 $longitudeInput = $_POST["longitudeInput"];
 $dataPoints = array();
@@ -10,7 +11,7 @@ if (empty($longitudeInput)) {
 
 } else {
  
-    if ($stmt = $conn->prepare("CALL Query6_CountryByLongitude(?)")) {
+    if ($stmt = $conn->prepare("CALL CountryByLongitude(?)")) {
  
        $stmt->bind_param("s", $longitudeInput);
  
@@ -55,5 +56,6 @@ if (empty($longitudeInput)) {
  
  }
 
+ //close connection 
  $conn->close();
 ?>

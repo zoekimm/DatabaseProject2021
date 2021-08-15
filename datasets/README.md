@@ -1,9 +1,11 @@
-countries #https://www.kaggle.com/fernandol/countries-of-the-world
+Datasets were obtained from corresponding links.
 
-countries_code # https://gist.github.com/tadast/8827699
+airline-small.txt airlines_preprocessed.txt : #https://github.com/tugraz-isds/datasets/blob/master/airports_airlines/Airports.csv.txt #https://www.kaggle.com/open-flights/airline-database
 
-airports #https://github.com/tugraz-isds/datasets/blob/master/airports_airlines/Airports.csv
+airport-small.txt, airports_preprocessed.txt  : #https://github.com/tugraz-isds/datasets/blob/master/airports_airlines/Airports.csv
 
-airlines #https://www.kaggle.com/open-flights/airline-database
+countries_preprocessed.txt, country-small.txt : #https://www.kaggle.com/fernandol/countries-of-the-world
 
-routes #https://www.kaggle.com/open-flights/flight-route-database
+route-small.txt, routes_preprocessed.txt #https://www.kaggle.com/open-flights/flight-route-database
+
+(countries_code # https://gist.github.com/tadast/8827699)
